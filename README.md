@@ -28,7 +28,7 @@ npm install -g node-vite-easysetup
 Run the following command to create a new full-stack project:
 
 ```bash
-node-vite-easysetup <project-name>
+npx node-vite-easysetup <project-name>
 ```
 
 Replace `<project-name>` with the desired name of your project. If no name is provided, the default project name will be `my-fullstack-app`.
