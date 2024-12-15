@@ -2,7 +2,7 @@
   "name": "node-vite-easysetup",
   "version": "1.0.0",
   "description": "By installing this package you can easily set up MERN project with node and vite.",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "test": "npm run test"
   },
