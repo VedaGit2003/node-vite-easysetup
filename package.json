@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "By installing this package you can easily set up MERN project with node and vite.",
   "main": "script.js",
+  "bin": {
+    "node-vite-easysetup": "./script.js"
+  },
   "scripts": {
     "test": "npm run test"
   },
@@ -21,7 +24,7 @@
     "expressjs"
   ],
   "author": "Veda Paul Chowdhury",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/VedaGit2003/node-vite-easysetup/issues"
   },
@@ -29,6 +32,7 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "fs": "^0.0.1-security",
+    "node-vite-easysetup": "^1.0.0",
     "path": "^0.12.7"
   }
 }
